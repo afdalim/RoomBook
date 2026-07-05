@@ -418,7 +418,7 @@ Platform Peminjaman Ruangan Kampus
 
 <h1>
 
-Booking Ruangan Kampus
+Peminjaman Ruangan Kampus
 <br>
 
 Lebih Mudah,

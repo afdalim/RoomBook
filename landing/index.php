@@ -566,7 +566,7 @@ Mahasiswa
 
 <p class="text-muted mb-0">
 
-Booking
+Peminjaman
 
 </p>
 
@@ -650,7 +650,7 @@ Cepat
 
 <p class="text-muted">
 
-Booking ruangan dapat dilakukan kapan saja hanya dalam beberapa menit.
+Peminjaman ruangan dapat dilakukan kapan saja hanya dalam beberapa menit.
 
 </p>
 
@@ -745,7 +745,7 @@ Status pengajuan dapat dipantau secara realtime tanpa harus datang ke admin.
 </section>
 
 <!-- ===========================
-ALUR BOOKING
+ALUR PEMINJAMAN
 =========================== -->
 
 <section class="py-5 bg-light" id="alur">
@@ -840,7 +840,7 @@ Pilih ruangan yang masih tersedia sesuai kebutuhan.
 
 <h5 class="font-weight-bold">
 
-3. Ajukan Booking
+3. Ajukan Peminjaman
 
 </h5>
 
@@ -1005,7 +1005,7 @@ Fitur
 
 <a href="#alur" class="text-light">
 
-Alur Booking
+Alur Peminjaman
 
 </a>
 
